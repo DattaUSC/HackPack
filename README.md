@@ -180,13 +180,15 @@ START WITH HEROKU:
 
 1. Go to https://www.heroku.com and Sign Up
 
-2. Click on "Add-Ons"
+2. Create an App
+
+3. Click on "Add-Ons"
 
 ** Add SendGrid **
 
-3. Click on Sendgrid
+4. Click on Sendgrid
 
-4. Open Terminal and type in: heroku addons:add sendgrid
+5. Open Terminal and type in: heroku addons:add sendgrid
 
 <hr >
 
