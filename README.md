@@ -176,6 +176,16 @@ The same goes for other providers.
 
 <hr>
 
+SETUP MAILGUN:
+
+1. Go to https://mailgun.com/signup and Sign Up
+
+2. Copy script on next page and open up your terminal and paste it
+
+3. Check your email, you should have received an email 
+
+<hr>
+
 <p>Heroku</p>
 <p>MongoDB</p>
 <p>Twilio</p>
