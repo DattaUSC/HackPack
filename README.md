@@ -176,6 +176,20 @@ The same goes for other providers.
 
 <hr>
 
+START WITH HEROKU:
+
+1. Go to https://www.heroku.com and Sign Up
+
+2. Click on "Add-Ons"
+
+** Add SendGrid **
+
+3. Click on Sendgrid
+
+4. Open Terminal and type in: heroku addons:add sendgrid
+
+<hr >
+
 SETUP MAILGUN:
 
 1. Go to https://mailgun.com/signup and Sign Up
