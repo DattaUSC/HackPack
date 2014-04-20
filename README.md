@@ -175,3 +175,9 @@ e.g. `http://my-awesome-app.herokuapp.com` and
 The same goes for other providers.
 
 <hr>
+
+<p>Heroku</p>
+<p>MongoDB</p>
+<p>Twilio</p>
+<p>Twitter</p>
+<p>BitSync Torrent</p>
