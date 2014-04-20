@@ -181,3 +181,5 @@ The same goes for other providers.
 <p>Twilio</p>
 <p>Twitter</p>
 <p>BitSync Torrent</p>
+<p>MailGun</p>
+<p>Google</p>
