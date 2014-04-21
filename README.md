@@ -145,36 +145,10 @@ it to quickly add Socket.io support to your app, add Mozilla Persona sign-in,
 generate new pages (create new routes, templates and controllers for you
 automatically).
 
-Obtaining API Keys
-------------------
 
-To use any of the included APIs or OAuth authentication methods, you will need
-to obtain appropriate credentials: Client ID, Client Secret, API Key, or
-Username & Password. You will need to go through each provider to generate new
-credentials.
+<hr >
 
-**Hackathon Starter 2.0 Update:** I have included dummy keys and passwords for
-all API examples to get you up and running even faster. But don't forget to update
-them with *your credentials* when you are ready to deploy an app.
-
-<img src="http://images.google.com/intl/en_ALL/images/srpr/logo6w.png" width="200">
-- Visit [Google Cloud Console](https://cloud.google.com/console/project)
-- Click **CREATE PROJECT** button
-- Enter *Project Name*, then click **CREATE**
-- Then select *APIs & auth* from the sidebar and click on *Credentials* tab
-- Click **CREATE NEW CLIENT ID** button
- - **Application Type**: Web Application
- - **Authorized Javascript origins**: http://localhost:3000
- - **Authorized redirect URI**: http://localhost:3000/auth/google/callback
-- Copy and paste *Client ID* and *Client secret* keys into `config/secrets.js`
-
-:exclamation: **Note:** When you ready to deploy to production don't forget to
-add your new url to *Authorized Javascript origins* and *Authorized redirect URI*,
-e.g. `http://my-awesome-app.herokuapp.com` and
-`http://my-awesome-app.herokuapp.com/auth/google/callback` respectively.
-The same goes for other providers.
-
-<hr>
+<img src="http://www.coloandcloud.com/wp-content/uploads/2012/05/heroku_logo.jpg" width="200">
 
 1. Go to https://toolbelt.heroku.com/ and dowload Heroku Toolbelt for Mac OSX
 
