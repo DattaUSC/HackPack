@@ -176,6 +176,59 @@ The same goes for other providers.
 
 <hr>
 
+1. Go to https://toolbelt.heroku.com/ and dowload Heroku Toolbelt for Mac OSX
+
+2. Create a folder on your desktop for your Git Repo
+
+3. Go to Terminal - > go to folder in Term
+
+git init (Install Command Line Tools)
+
+- You should see a message that says “Initialized empty Git repository in Users/your.name/Desktop/HackPack/.git/
+
+4. Download Sublime Text 2 and Open the Program
+
+5. Write “Hello World!” and save it as ReadMe.md
+
+6. Put ReadMe.md in your HackPack folder
+
+7. git add ReadMe.md
+
+8. git commit -m “This is my first push”
+______
+
+9. Go to https://github.com/ and create an account or Login to your existing account
+
+10. Click on Repositories and then “New”
+
+11. Name your repository “Urban Hack” and click on “Create Repository”
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/DDcali2012/UrbanHack.git
+git push -u origin master
+Type in username / password for Github if prompted
+______
+
+12. Go to http://www.bootstrapzero.com/bootstrap-templates/starter and Download “simple vanilla template”
+
+13. Rename as “index.html” and stick in HackPack folder
+
+14. In Terminal type git add index.html
+
+15. Type git push -u origin master
+
+16. If done correctly, you will see your files on Github
+
+______________
+
+17. In Terminal type heroku create to create a new app for deployment
+
+18. Type git push heroku master
+
+<hr>
+
 START WITH HEROKU:
 
 1. Go to https://www.heroku.com and Sign Up
