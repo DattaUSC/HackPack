@@ -10,20 +10,9 @@ Hack Pack 1.0
 
 A boilerplate for web applications.
 
-If you have attended any hackathons in the past, then you know how much time it takes to
-get a project started: decide on what to build, pick a programming language, pick a web framework,
-pick a CSS framework. A while later, you might have an initial project up on GitHub and only then
-can other team members start contributing. Or how about doing something as simple as *Sign in with Facebook*
-authentication? You can spend hours on it if you are not familiar with how OAuth 2.0 works.
+If you've ever been to a Hackathon, you'll realize that most teams spend hours just setting up their basic infrastructure to connect code and deploy it. Setting up API's, connecting GitHub, and getting your project on the web all take precious time out of actually getting to the best part of your project - the final product or demo. We are putting together a Hack Pack to get you started. The goal is to make it easy enough for easy non-developers to install and deploy these technologies.
 
-When I started this project, my primary focus was on **simplicity** and **ease of use**.
-I also tried to make it as **generic** and **reusable** as possible to cover most use cases of hackathon web apps,
-without being too specific. In the worst case you can use this as a learning guide for your projects,
-if for example you are only interested in **Sign in with Google** authentication and nothing else.
-
-Chances are you do not need all authentication methods or API examples. As of **Hackathon Starter 2.0**
-it is possible to selectively check which authentication methods you need by running `generator.js`. For now
-you still have to manually remove API examples that you don't need.
+Chances are you do not need all authentication methods or API examples. As of **Hackathon Starter 1.0**
 
 <h4 align="center">Progressus Bootstrap Theme</h3>
 
