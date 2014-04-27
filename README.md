@@ -8,9 +8,7 @@ Hack Pack 1.0 [![Dependency Status](https://david-dm.org/sahat/hackathon-starter
   <img src="https://lh4.googleusercontent.com/-NXCLKSnPU60/U0xzuGt37_I/AAAAAAAAEBY/QjWLUHowgzY/w792-h272-no/Screenshot+2014-04-14+19.47.22.png" height="68">
 </a>
 
-Jump to [What's new in 2.0?](#changelog)
-
-A boilerplate for **Node.js** web applications.
+A boilerplate for web applications.
 
 If you have attended any hackathons in the past, then you know how much time it takes to
 get a project started: decide on what to build, pick a programming language, pick a web framework,
