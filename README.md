@@ -174,6 +174,13 @@ SETUP MAILGUN:
 
 <hr>
 
+Github App
+-----------------
+
+Install GitHub App for Mac: https://mac.github.com/
+
+<hr>
+
 Install Meteor.js
 -----------------
 
