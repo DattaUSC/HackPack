@@ -27,17 +27,13 @@ Chances are you do not need all authentication methods or API examples. As of **
 it is possible to selectively check which authentication methods you need by running `generator.js`. For now
 you still have to manually remove API examples that you don't need.
 
-<h4 align="center">Flatly Bootstrap Theme</h3>
+<h4 align="center">Progressus Bootstrap Theme</h3>
 
 ![](https://lh6.googleusercontent.com/-hcbsNx9tagc/U0xhUuAAPSI/AAAAAAAAEAg/kppd76NPORs/w1210-h952-no/Screenshot+2014-04-14+18.28.02.png)
 
-<h4 align="center">Default Theme</h3>
+<h4 align="center">Minimal Theme</h3>
 
 ![](https://lh5.googleusercontent.com/-KmlaMLKGCqg/UuWt4MrXzeI/AAAAAAAAD6o/KUucObo33zU/w1170-h860-no/Screenshot+2014-01-26+19.52.03.png)
-
-<h4 align="center">Hackathon Starter Generator</h3>
-
-![](https://lh6.googleusercontent.com/-61huCORb8w0/U0wq1xj3IiI/AAAAAAAAD_8/tnkfKnwOpGM/w1370-h962-no/Screenshot+2014-04-14+14.33.06.png)
 
 Table of Contents
 -----------------
