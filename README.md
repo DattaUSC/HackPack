@@ -100,32 +100,6 @@ here is another great tutorial for complete beginners - [Getting Started With No
 Getting Started With Heroku
 ---------------------------
 
-The easiest way to get started is to clone the repository:
-
-```bash
-# Fetch only the latest commits
-git clone --depth=1 git@github.com:sahat/hackathon-starter.git my-project
-
-cd my-project
-
-# Install NPM dependencies
-npm install
-
-node app.js
-```
-
-:exclamation: **Note:** I highly recommend installing [Nodemon](https://github.com/remy/nodemon).
-It watches for any changes in your  node.js app and automatically restarts the
-server. Once installed, instead of `node app.js` use `nodemon app.js`. It will
-save you a lot of time in the long run, because you won't need to manually
-restart the server each time you make a small change in code. To install, run
-`sudo npm install -g nodemon`.
-
-<hr >
-
-Getting Started
----------------
-
 <img src="http://www.coloandcloud.com/wp-content/uploads/2012/05/heroku_logo.jpg" width="200">
 
 1. Go to https://toolbelt.heroku.com/ and dowload Heroku Toolbelt for Mac OSX
