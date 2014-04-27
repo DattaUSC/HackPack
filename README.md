@@ -207,6 +207,23 @@ SETUP MAILGUN:
 
 <hr>
 
+Install Meteor.js
+-----------------
+
+**Step One, in Terminal type:**
+
+curl https://install.meteor.com/ | sh
+
+**Then type:**
+
+$ meteor create ~/my_cool_app
+
+$ cd ~/my_cool_app
+
+$ meteor
+
+<hr >
+
 <p>Heroku</p>
 <p>MongoDB</p>
 <p>Twilio</p>
@@ -214,3 +231,4 @@ SETUP MAILGUN:
 <p>BitSync Torrent</p>
 <p>MailGun</p>
 <p>Google</p>
+<p>Meteor.js</p>
