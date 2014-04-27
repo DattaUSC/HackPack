@@ -1,5 +1,5 @@
 ![Alt](http://highgroundhackers.org/wp-content/uploads/2014/04/hack11.png)
-Hack Pack 1.0 [![Dependency Status](https://david-dm.org/sahat/hackathon-starter.svg?theme=shields.io)](https://david-dm.org/sahat/hackathon-starter) [![Build Status](https://travis-ci.org/sahat/hackathon-starter.svg?branch=master)](https://travis-ci.org/sahat/hackathon-starter) [![Analytics](https://ga-beacon.appspot.com/UA-47447818-2/hackathon-starter?pixel)](https://github.com/igrigorik/ga-beacon)
+Hack Pack 1.0
 =====================
 
 <a href="https://github.com/sahat/hackathon-starter/zipball/master">
