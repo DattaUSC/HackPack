@@ -3,9 +3,9 @@ Hack Pack 1.0 [![Dependency Status](https://david-dm.org/sahat/hackathon-starter
 =====================
 
 <a href="https://github.com/sahat/hackathon-starter/zipball/master">
-  <img src="http://highgroundhackers.org/wp-content/uploads/2014/04/downloadbutton.png" height="68">
+  <img src="http://highgroundhackers.org/wp-content/uploads/2014/04/downloadbutton.png" height="41">
 </a> <a href="http://hackathonstarter.herokuapp.com" target="_blank">
-  <img src="http://highgroundhackers.org/wp-content/uploads/2014/04/demobutton.png" height="68">
+  <img src="http://highgroundhackers.org/wp-content/uploads/2014/04/gdemobutton.png" height="41">
 </a>
 
 A boilerplate for web applications.
