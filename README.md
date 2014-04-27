@@ -3,9 +3,9 @@ Hack Pack 1.0
 =====================
 
 <a href="https://github.com/sahat/hackathon-starter/zipball/master">
-  <img src="http://highgroundhackers.org/wp-content/uploads/2014/04/downloadbutton.png" height="41">
+  <img src="http://highgroundhackers.org/wp-content/uploads/2014/04/buttonblack.png" height="44">
 </a> <a href="http://hackathonstarter.herokuapp.com" target="_blank">
-  <img src="http://highgroundhackers.org/wp-content/uploads/2014/04/gdemobutton.png" height="41">
+  <img src="http://highgroundhackers.org/wp-content/uploads/2014/04/gdemobutton.png" height="44">
 </a>
 
 A boilerplate for web applications.
@@ -97,8 +97,8 @@ Prerequisites
 screencast by Alex Ford that teaches Node and Express from scratch. Alternatively,
 here is another great tutorial for complete beginners - [Getting Started With Node.js, Express, MongoDB](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/).
 
-Getting Started
----------------
+Getting Started With Heroku
+---------------------------
 
 The easiest way to get started is to clone the repository:
 
@@ -122,6 +122,9 @@ restart the server each time you make a small change in code. To install, run
 `sudo npm install -g nodemon`.
 
 <hr >
+
+Getting Started
+---------------
 
 <img src="http://www.coloandcloud.com/wp-content/uploads/2012/05/heroku_logo.jpg" width="200">
 
