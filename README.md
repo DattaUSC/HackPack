@@ -14,9 +14,13 @@ If you've ever been to a Hackathon, you'll realize that most teams spend hours j
 
 Chances are you do not need all authentication methods or API examples. As of **Hackathon Starter 1.0**
 
+<hr />
+
 <h4 align="center">Progressus Bootstrap Theme</h3>
 
 ![](http://highgroundhackers.org/wp-content/uploads/2014/04/progressus.png)
+
+<hr />
 
 <h4 align="center">Minimal Theme</h3>
 
